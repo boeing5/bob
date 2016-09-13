@@ -1,0 +1,37 @@
+﻿Сборка начата 31.08.2016 15:57:03.
+     1>Проект "C:\Users\Acer\Documents\Visual Studio 2015\Projects\LpLab14\LpLab14\LpLab14.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\LpLab14.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\LpLab14.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Error.cpp FST.cpp In.cpp IT.cpp LexAnalyse.cpp Log.cpp LpLab14.cpp LT.cpp Parm.cpp SplitArray.cpp
+         SplitArray.cpp
+         Parm.cpp
+         LT.cpp
+         LpLab14.cpp
+         Log.cpp
+         LexAnalyse.cpp
+         IT.cpp
+         In.cpp
+         FST.cpp
+     1>c:\users\acer\documents\visual studio 2015\projects\lplab14\lplab14\fst.cpp(68): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+         Error.cpp
+         Создание кода...
+     1>c:\users\acer\documents\visual studio 2015\projects\lplab14\lplab14\error.cpp(34): warning C4172: возвращение адреса локальной или временной переменной : rc
+       Link:
+         D:\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Acer\Documents\Visual Studio 2015\Projects\LpLab14\Debug\LpLab14.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Acer\Documents\Visual Studio 2015\Projects\LpLab14\Debug\LpLab14.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Acer\Documents\Visual Studio 2015\Projects\LpLab14\Debug\LpLab14.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\FST.obj
+         Debug\In.obj
+         Debug\IT.obj
+         Debug\LexAnalyse.obj
+         Debug\Log.obj
+         Debug\LpLab14.obj
+         Debug\LT.obj
+         Debug\Parm.obj
+         Debug\SplitArray.obj
+         Debug\stdafx.obj
+         LpLab14.vcxproj -> C:\Users\Acer\Documents\Visual Studio 2015\Projects\LpLab14\Debug\LpLab14.exe
+     1>Сборка проекта "C:\Users\Acer\Documents\Visual Studio 2015\Projects\LpLab14\LpLab14\LpLab14.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.74

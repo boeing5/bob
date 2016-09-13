@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Parm.cpp
+  LT.cpp
+  LPLab14.cpp
+  Log.cpp
+  LexAnaliz.cpp
+d:\универ\2 семестр\яп\lplab14\lplab14\lexanaliz.cpp(301): warning C4018: <: несоответствие типов со знаком и без знака
+d:\универ\2 семестр\яп\lplab14\lplab14\lexanaliz.cpp(394): warning C4018: <: несоответствие типов со знаком и без знака
+d:\универ\2 семестр\яп\lplab14\lplab14\lexanaliz.cpp(412): warning C4018: <: несоответствие типов со знаком и без знака
+  IT.cpp
+  In.cpp
+  FST.cpp
+  Error.cpp
+  Создание кода...
+  LPLab14.vcxproj -> D:\Универ\2 семестр\яп\LPLab14\Debug\LPLab14.exe
